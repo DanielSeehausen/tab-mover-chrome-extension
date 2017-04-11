@@ -11,14 +11,13 @@
       "run_at": "document_start"
    } ],
    "browser_action": {
-      "default_icon": "ruby.jpg",
-      "default_popup": "ruby.jpg",
-      "default_title": "tab mover"
+      "default_icon": "ruby-128.png",
+      "default_popup": "ruby-440.png",
+      "default_title": "Tab Mover"
    },
    "manifest_version": 2,
-   "name": "Hotkey for Tab Moving",
+   "name": "Mac Hotkey for Tab Moving",
    "description": "Reorder tabs with cmd+shift+p and cmd+shift+\\.",
    "permissions": [ ],
-   "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.0.1"
+   "version": "0.0.2"
 }
