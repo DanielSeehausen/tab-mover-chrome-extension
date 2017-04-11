@@ -1,8 +1,7 @@
 {
    "background": {
       "persistent": false,
-      "scripts": [ "background.js" ],
-      "run_at": "document_start"
+      "scripts": [ "background.js" ]
    },
    "content_scripts": [ {
       "all_frames": true,
@@ -19,5 +18,5 @@
    "name": "Mac Hotkey for Tab Moving",
    "description": "Reorder tabs with cmd+shift+p and cmd+shift+\\.",
    "permissions": [ ],
-   "version": "0.0.2"
+   "version": "0.1.0"
 }
